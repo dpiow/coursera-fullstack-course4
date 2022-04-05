@@ -1,0 +1,26 @@
+.navbar {
+  border-color: black;
+  border-radius: 0;
+}
+
+#nav-list li {
+  text-align: center;
+  font-size: 1.2em;
+  color: black;
+}
+
+.navbar-brand p {
+  color: black;
+}
+
+.container-fluid {
+  background-color: darkgray;
+}
+
+.container {
+  width: 96%;
+}
+
+.col-xs-12 {
+  background-color: darkgray;
+}
